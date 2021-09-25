@@ -55,10 +55,12 @@ func TestProblem1(t *testing.T) {
 		// 如需多个测试，可以复制上方元素
 	}
 
-	t.Logf("-----------------------LeetCode Problem 1------------------------\n")
+	t.Logf("-----------------------LeetCode Problem 1-----------------------\n")
 
 	for _, q := range qs {
 		_, p := q.ans1, q.para1
 		t.Logf("[input]:%v		[output]:%v\n", p, twoSum(p.nums, p.target))
 	}
+
+	t.Logf("------------------------------END------------------------------\n")
 }
