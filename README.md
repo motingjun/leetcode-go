@@ -13,3 +13,4 @@
 |0004|寻找两个正序数组的中位数|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0004.Median-of-Two-Sorted-Arrays)|||40.8%|困难||
 |0005|最长回文子串|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0005.Longest-Palindromic-Substring)|||35.5%|中等||
 |0006|Z 字形变换|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0006.ZigZag-Conversion)|O(n)|O(n)|50.7%|中等||
+|0007|整数反转|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0007.Reverse-Integer)|O(n)||35.3%|简单||
