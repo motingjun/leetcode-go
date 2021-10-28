@@ -25,5 +25,6 @@
 |0018|四数之和|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0018.4Sum)|O(n^3)||39.8%|中等||
 |0019|删除链表的倒数第 N 个结点|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0019.Remove-Nth-Node-From-End-of-List)|O(n)|O(1)|43.0%|中等||
 |0020|有效的括号|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0020.Valid-Parentheses)|O(n)||44.5%|简单||
-|0021|合并两个有序链表|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0021.Merge-Two-Sorted-Lists)|||66.8%|简单||
+|0021|合并两个有序链表|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0021.Merge-Two-Sorted-Lists)|O(log n)|O(1)|66.8%|简单||
 |0022|括号生成|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0022.Generate-Parentheses)|||77.3%|中等||
+|0023|合并k个升序链表|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0023.Merge-k-Sorted-Lists)|O(log n)|O(1)|56.0%|困难||
