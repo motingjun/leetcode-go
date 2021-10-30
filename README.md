@@ -28,3 +28,4 @@
 |0021|合并两个有序链表|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0021.Merge-Two-Sorted-Lists)|O(log n)|O(1)|66.8%|简单||
 |0022|括号生成|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0022.Generate-Parentheses)|||77.3%|中等||
 |0023|合并k个升序链表|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0023.Merge-k-Sorted-Lists)|O(log n)|O(1)|56.0%|困难||
+|0024|两两交换链表中的节点|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0024.Swap-Nodes-in-Pairs)|O(n)|O(1)|70.3%|中等||
