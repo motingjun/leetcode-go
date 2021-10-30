@@ -29,3 +29,4 @@
 |0022|括号生成|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0022.Generate-Parentheses)|||77.3%|中等||
 |0023|合并k个升序链表|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0023.Merge-k-Sorted-Lists)|O(log n)|O(1)|56.0%|困难||
 |0024|两两交换链表中的节点|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0024.Swap-Nodes-in-Pairs)|O(n)|O(1)|70.3%|中等||
+|0025|K 个一组翻转链表|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0025.Reverse-Nodes-in-k-Group)|O(log n)|O(1)|65.8%|困难||
