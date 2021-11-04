@@ -33,3 +33,4 @@
 |0026|删除有序数组中的重复项|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0026.Remove-Duplicates-from-Sorted-Array)|O(n)|O(1)|53.8%|简单||
 |0027|移除元素|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0027.Remove-Element)|O(n)|O(1)|59.7%|简单||
 |0028|实现 strStr()|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0028.Implement-strStr)|O(n)|O(1)|40.5%|简单||
+|0029|两数相除|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0029.Divide-Two-Integers)|||22.0%|中等||
