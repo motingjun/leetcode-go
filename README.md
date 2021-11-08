@@ -34,3 +34,4 @@
 |0027|移除元素|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0027.Remove-Element)|O(n)|O(1)|59.7%|简单||
 |0028|实现 strStr()|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0028.Implement-strStr)|O(n)|O(1)|40.5%|简单||
 |0029|两数相除|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0029.Divide-Two-Integers)|||22.0%|中等||
+|0030|串联所有单词的子串|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0030.Substring-with-Concatenation-of-All-Words)|||36.0%|困难||
