@@ -36,3 +36,4 @@
 |0029|两数相除|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0029.Divide-Two-Integers)|||22.0%|中等||
 |0030|串联所有单词的子串|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0030.Substring-with-Concatenation-of-All-Words)|O(n)|O(n)|36.0%|困难||
 |0031|下一个排列|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0031.Next-Permutation)|||37.3%|中等||
+|0032|最长有效括号|[Go](https://github.com/motingjun/leetcode-go/tree/main/leetcode/0032.Longest-Valid-Parentheses)|||35.7%|困难||
